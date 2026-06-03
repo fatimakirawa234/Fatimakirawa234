@@ -1,7 +1,6 @@
 <h1>Hi, I'm Fatima! <br/>
-<a href="#">Aspiring Software Engineer</a> | 
-<a href="#">System Analyst</a> |
-<a href="#">Project Manager
+<a href="#">Backend Software Engineer</a> | 
+<a href="#">System Analyst</a>
 </h1>
 
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -23,13 +22,13 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3>Vehicle Maintenance Record System</h3>
       <p>A comprehensive application designed to manage, track, and audit maintenance activities and records of vehicles.</p>
       <p>The system maintains detailed profiles for each vehicle (VIN, make, tasks, maintenance date, and cost) structured around a one-to-many relationship tracking system.</p>
       <p><b>Repository:</b><br/><a href="https://github.com/fatimakirawa234/vehicle.git">https://github.com/fatimakirawa234/vehicle.git</a></p>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>Power Reach</h3>
       <p>A robust, microservices-driven platform designed specifically for the Abuja region to streamline and automate consumer electricity issue reporting.</p>
       <p>Built with localized data layers to optimize real-time reporting metrics, isolate authentication flows, and manage localized infrastructure tickets securely.</p>
@@ -59,9 +58,7 @@
 <h2>📜 Certifications</h2>
 
 - <b>Huawei Certification</b>  
-  <a href="https://drive.google.com/file/d/1EH4TsLU9Qlna7IYDizMD9baheOEgHx16/view?usp=share_link">View Certificate</a>
-- <b>Responsive Web Design — freeCodeCamp</b>  
-  <a href="https://freecodecamp.org/certification/">View Certificate</a>
+  <a href="./certificates/Huawei-Certificate.pdf">View Certificate</a>
 
 <h2>🤳 Connect with me</h2>
 
