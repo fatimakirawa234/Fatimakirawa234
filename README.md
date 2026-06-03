@@ -1,6 +1,7 @@
 <h1>Hi, I'm Fatima! <br/>
-<a href="#">Backend Software Engineer</a> | 
+<a href="#">Aspiring Software Engineer</a> | 
 <a href="#">System Analyst</a>
+<a href="#">Project Manager
 </h1>
 
 <h3>🛠️ Tech Stack & Skills</h3>
