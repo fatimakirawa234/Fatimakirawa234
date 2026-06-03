@@ -1,6 +1,7 @@
 <h1>Hi, I'm Fatima! <br/>
 <a href="#">Backend Software Engineer</a> | 
-<a href="#">System Analyst</a>
+<a href="#">System Analyst</a> |
+<a href="#">Project Manager</a> 
 </h1>
 
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -57,8 +58,10 @@
 
 <h2>📜 Certifications</h2>
 
-- <b>Huawei Certification</b>  
+- <b>HCIA-Datacom V1.O - Huawei Certification</b>  
   <a href="./certificates/Huawei-Certificate.pdf">View Certificate</a>
+  - <b>Responsive Web Design — freeCodeCamp</b>  
+  <a href="https://freecodecamp.org/certification/">View Certificate</a>
 
 <h2>🤳 Connect with me</h2>
 
