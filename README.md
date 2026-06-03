@@ -32,7 +32,7 @@
       <h3>Power Reach</h3>
       <p>A robust, microservices-driven platform designed specifically for the Abuja region to streamline and automate consumer electricity issue reporting.</p>
       <p>Built with localized data layers to optimize real-time reporting metrics, isolate authentication flows, and manage localized infrastructure tickets securely.</p>
-      <p><b>Repository:</b><br/><a href="#">Coming Soon / Link to Repository</a></p>
+      <p><b>Repository:</b><br/><a href="https://github.com/tomjames156/Power-Reach-PWA.git">https://github.com/tomjames156/Power-Reach-PWA.git</a></p>
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 <h2>📜 Certifications</h2>
 
 - <b>Huawei Certification</b>  
-  <a href="./certificates/Huawei-Certificate.pdf">View Certificate</a>
+  <a href="https://drive.google.com/file/d/1EH4TsLU9Qlna7IYDizMD9baheOEgHx16/view?usp=share_link">View Certificate</a>
 
 <h2>🤳 Connect with me</h2>
 
@@ -70,5 +70,3 @@
 
 <br/>
 <br/>
-
-
