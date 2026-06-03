@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fatima! <br/>
 <a href="#">Aspiring Software Engineer</a> | 
-<a href="#">System Analyst</a>
+<a href="#">System Analyst</a> |
 <a href="#">Project Manager
 </h1>
 
