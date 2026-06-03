@@ -60,6 +60,8 @@
 
 - <b>Huawei Certification</b>  
   <a href="https://drive.google.com/file/d/1EH4TsLU9Qlna7IYDizMD9baheOEgHx16/view?usp=share_link">View Certificate</a>
+- <b>Responsive Web Design — freeCodeCamp</b>  
+  <a href="https://freecodecamp.org/certification/">View Certificate</a>
 
 <h2>🤳 Connect with me</h2>
 
