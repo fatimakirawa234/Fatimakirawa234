@@ -35,6 +35,12 @@
       <p>Built with localized data layers to optimize real-time reporting metrics, isolate authentication flows, and manage localized infrastructure tickets securely.</p>
       <p><b>Repository:</b><br/><a href="https://github.com/tomjames156/Power-Reach-PWA.git">https://github.com/tomjames156/Power-Reach-PWA.git</a></p>
     </td>
+    <td width="33%">
+      <h3>Taste the Nations</h3>
+      <p>A dynamic web application celebrating global gastronomy by showcasing carefully curated culinary traditions and popular international dishes.</p>
+      <p>The platform delivers an immersive culinary exploration experience, seamlessly blending rich menu profiles with an inviting digital environment for food lovers.</p>
+      <p><b>Repository:</b><br/><a href="https://github.com/fatimakirawa234/taste-the-nations.git">https://github.com/fatimakirawa234/taste-the-nations.git</a></p>
+    </td>
   </tr>
 </table>
 
